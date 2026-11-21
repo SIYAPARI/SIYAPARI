@@ -1,6 +1,6 @@
 ![Siya Pari - Technology Stack Banner](./banner.png)
 
-| CS Undergrad & Builder / Shipping full-stack apps, agentic AI systems, and scalable web products. | [Email](mailto:siyachandel56@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siyapari/) · [GitHub](https://github.com/SIYAPARI/) · [LeetCode](https://leetcode.com/u/siyachandel_21/) |
+| CS Undergrad & Builder / Shipping full-stack apps, agentic AI systems, and scalable web products. | [Email](mailto:siyachandel56@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siyapari/)  · [LeetCode](https://leetcode.com/u/siyachandel_21/) |
 | :--- | :--- |
 
 I build full-stack web applications, multi-agent AI pipelines, and explainable ML systems backed by strong CS fundamentals.
