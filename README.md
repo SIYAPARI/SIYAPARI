@@ -1,4 +1,4 @@
-![Siya Pari - Technology Stack Banner](.Gemini_Generated_Image_o7s9gko7s9gko7s9.png)
+![Siya Pari - Technology Stack Banner](Gemini_Generated_Image_o7s9gko7s9gko7s9.png)
 
 | CS Undergrad & Builder / Shipping full-stack apps, agentic AI systems, and scalable web products. | [Email](mailto:siyachandel56@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siyapari/)  · [LeetCode](https://leetcode.com/u/siyachandel_21/) |
 | :--- | :--- |
